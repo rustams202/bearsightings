@@ -58,7 +58,7 @@ export default function LandingPage() {
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight tracking-tight">
-            Track Black Bears
+            Human Wildlife Conflict - Track Bears Across Vermont
             <br />
             <span className="text-amber-300">Across Vermont</span>
           </h1>
